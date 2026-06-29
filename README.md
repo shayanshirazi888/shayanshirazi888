@@ -1,3 +1,4 @@
+<img width="735" height="414" alt="photo" src="https://github.com/user-attachments/assets/2b87b1f3-e97b-4272-afa8-5c7e33731836" />
 <div align="center">
   <!-- تصویر هدر سیاه و سفید مینیمال - می‌توانید لینک عکس دلخواه خود را جایگزین کنید -->
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" alt="Minimalist Coding Banner" width="100%" />
