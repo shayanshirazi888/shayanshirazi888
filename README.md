@@ -1,21 +1,19 @@
-<img width="735" height="414" alt="photo" src="https://github.com/user-attachments/assets/2b87b1f3-e97b-4272-afa8-5c7e33731836" />
-<div align="center">
-  <br/><br/>
+<p align="center">
+  <img src="https://github.com/shayanshirazi888/shayanshirazi888/blob/main/README.md?raw=true" width="100%" />
+</p>
 
+<div align="center">
   # <span>shayan</span>
   <p align="center">
     <strong>Embedded Systems Engineer | Low-Level Developer | PCB Designer</strong>
   </p>
-
   <p align="center">
     <a href="https://github.com/shayanshirazi888">
       <img src="https://img.shields.io/badge/shayanshirazi888-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-
   <hr width="30%" style="border-color: #333;" />
 </div>
-
 ### 👤 About Me
 I am an **Embedded Systems Engineer** passionate about bridging the gap between hardware and software. I specialize in designing custom PCBs, developing Linux kernel-level drivers, and writing efficient firmware.
 
