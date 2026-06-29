@@ -48,30 +48,3 @@ I am an **Embedded Systems Engineer** passionate about bridging the gap between 
   <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
 </p>
-
----
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=shayanshirazi888&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Shayan's Stats" width="400px" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shayanshirazi888&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Top Langs" width="350px" />
-      </td>
-    </tr>
-  </table>
-</div>
----
-
-### 📬 Connect with me
-<p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
