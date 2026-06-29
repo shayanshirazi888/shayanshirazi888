@@ -18,9 +18,10 @@
 </div>
 
 ### ☕ About Me
-I build custom bootloaders, write firmware, and break things in CTFs. I don't claim to be an expert or a nerd in anything—just someone who genuinely enjoys exploring how systems work under the hood, usually while brewing or sipping a meticulously made cup of coffee.
+I design custom boards from scratch—from component selection to PCB layout and manual assembly—then write the bootloaders and firmware to bring them to life. I don't claim to be an expert or a nerd in anything—just someone who genuinely enjoys exploring how systems work under the hood, usually while brewing or sipping a meticulously made cup of coffee.
 
-- ⚙️ **Embedded & Firmware**: Developing bootloaders and writing firmware at the hardware level.
+- 🔌 **Hardware Design**: Designing schematics, routing PCBs, and hands-on component assembly.
+- ⚙️ **Embedded & Firmware**: Developing custom bootloaders and writing bare-metal firmware.
 - 👾 **CTF & Reversing**: Deeply interested in reverse engineering, binary analysis, and security challenges.
 - ☕ **Coffee Obsession**: Passionate about the art of coffee extraction and low-level code.
 
