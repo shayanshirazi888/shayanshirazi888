@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  # <span>shayan</span>
+ <span>shayan</span>
   <p align="center">
     <strong>Embedded Systems Engineer | Low-Level Developer | PCB Designer</strong>
   </p>
@@ -15,7 +15,7 @@
   </p>
   <hr width="30%" style="border-color: #333;" />
 </div>
-### 👤 About Me
+👤 About Me
 I am an **Embedded Systems Engineer** passionate about bridging the gap between hardware and software. I specialize in designing custom PCBs, developing Linux kernel-level drivers, and writing efficient firmware.
 
 - 🛠️ **Current Focus**: Driver development, Kernel-level programming, and SPI Flash utility integration.
