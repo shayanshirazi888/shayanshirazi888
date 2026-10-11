@@ -26,15 +26,6 @@
 
 </div>
 
-<!-- Schema.org Structured Metadata for Search Engines -->
-<div itemscope itemtype="https://schema.org/Person" style="display:none;">
-  <span itemprop="name">Shayan Shirazi</span>
-  <span itemprop="jobTitle">Hardware CTF Specialist and Embedded Linux Engineer</span>
-  <span itemprop="url">https://github.com/shayanshirazi888</span>
-  <span itemprop="image">https://raw.githubusercontent.com/shayanshirazi888/shayanshirazi888/main/assets/shayan-shirazi-banner.jpg</span>
-  <span itemprop="description">Shayan Shirazi is a Hardware CTF specialist and low-level firmware engineer focused on hardware security, JTAG/UART probing, SPI bus sniffing, fault injection, bootloaders, and custom PCB engineering.</span>
-</div>
-
 ## 📌 About Me
 
 I live at the intersection of **hardware design**, **embedded firmware**, and **hardware security**. As an active **Hardware CTF competitor**, my core expertise lies in physical security challenges, bus sniffing, identifying hidden debug headers, firmware extraction, and fault injection. 
@@ -105,15 +96,6 @@ And throughout every late-night tournament or solder station session, there is a
 </div>
 
 ---
-
-## 🔍 Search Keywords
-
-```text
-Keywords: Shayan Shirazi, shayanshirazi888, Hardware CTF, Hardware Security, UART Probing,
-JTAG Exploitation, SPI Bus Sniffing, Fault Injection, Glitching, Firmware Extraction,
-Embedded Linux Engineer, U-Boot Bootloader, Altium Designer Hardware, ESP32 Serprog,
-Flashrom Programmer, Specialty Coffee, Espresso Extraction, Low-Level Systems.
-```
 
 <div align="center">
   <sub>Crafted with precision &middot; Built on Linux &middot; Powered by Hardware CTFs & Espresso</sub>
