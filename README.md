@@ -28,17 +28,15 @@
 
 ## 📌 About Me
 
-I live at the intersection of **hardware design**, **embedded firmware**, and **hardware security**. As an active **Hardware CTF competitor**, my core expertise lies in physical security challenges, bus sniffing, identifying hidden debug headers, firmware extraction, and fault injection. 
+I live at the intersection of **hardware design**, **embedded firmware**, and **hardware security**. As an active **Hardware CTF competitor**, my core expertise lies in physical security challenges, bus sniffing, identifying hidden debug headers, in-circuit firmware extraction, and fault injection. 
 
-I bridge the gap between building hardware and breaking it: designing complex multi-layer PCBs in **Altium Designer**, writing custom **U-Boot bootloaders**, and tearing down foreign devices to analyze their physical vulnerabilities.
+I bridge the gap between building hardware and breaking it: designing complex multi-layer PCBs in **Altium Designer**, writing custom **U-Boot bootloaders**, and analyzing physical attack surfaces.
 
-And throughout every late-night tournament or solder station session, there is an uncompromising dedication to **specialty coffee**—profiling bean roasts, dialing in burr grind size, and pulling precision espresso shots right alongside my logic analyzer and probes.
-
-* 👾 **Hardware CTF & Physical Security:** Specializing in Hardware CTF categories—UART/JTAG/SWD discovery, logic analyzer protocol decoding (SPI, I2C, CAN), in-circuit memory dumping, fault injection (voltage/clock glitching), and firmware extraction.
-* ☕ **Espresso & Specialty Coffee:** Deeply obsessed with artisanal coffee extraction, dialing in beans, roast profiling, and sipping meticulous brews throughout every project.
+* 👾 **Hardware CTF & Physical Security:** UART/JTAG/SWD discovery, logic analyzer protocol decoding (SPI, I2C, CAN), memory dumping, fault injection (voltage/clock glitching), and firmware extraction.
 * 🔌 **Hardware Architecture:** End-to-end schematic capture, high-speed multi-layer PCB layout in Altium Designer, signal integrity, and manual micro-soldering.
 * ⚡ **Firmware & Kernel:** Custom bootloaders (`U-Boot`), device tree overlays, embedded Linux (`OpenWrt`), and Linux kernel modules.
 * 📡 **IoT & Gateways:** MediaTek `MT7628` / `HLK-7628N`, `ESP32-S3/C3`, dual-SIM LTE modem sequencing, shift registers, and RS485/UART subsystems.
+* ☕ **Fuel:** Fuelled by a good cup of espresso beside the terminal and logic analyzer.
 
 ---
 
@@ -67,7 +65,6 @@ And throughout every late-night tournament or solder station session, there is a
 | **Languages** | `C` &middot; `C++` &middot; `Python` &middot; `Bash / Shell` &middot; `MIPS / Xtensa / x86 ASM` |
 | **Embedded & RTOS** | `Embedded Linux` &middot; `OpenWrt` &middot; `U-Boot` &middot; `ESP-IDF` &middot; `FreeRTOS` |
 | **EDA & PCB Layout** | `Altium Designer` &middot; `KiCad` &middot; `Signal Integrity` &middot; `Hot-Air SMD Rework` |
-| **Coffee Gear ☕** | `Espresso Machine` &middot; `Precision Flat Burrs` &middot; `V60 Pour-Over` &middot; `PID Temperature Control` |
 | **Environment** | `Linux (Ubuntu)` &middot; `tmux` &middot; `Git` &middot; `VS Code / Neovim` &middot; `GCC Cross-Toolchains` |
 
 </div>
