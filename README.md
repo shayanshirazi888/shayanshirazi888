@@ -71,29 +71,6 @@ I bridge the gap between building hardware and breaking it: designing complex mu
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=shayanshirazi888&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&icon_color=e0af68&border_color=30363d&hide_border=false" alt="Shayan Shirazi GitHub Stats" width="410px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shayanshirazi888&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_color=30363d&hide_border=false" alt="Shayan Shirazi Top Languages" width="370px" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanshirazi888&theme=tokyonight&background=0D1117&border=30363D&stroke=7AA2F7&ring=E0AF68&fire=E0AF68&currStreakNum=7AA2F7&sideNums=C0CAF5&sideLabels=9ECE6A&dates=565F89" alt="Shayan Shirazi GitHub Streak" width="790px" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Crafted with precision &middot; Built on Linux &middot; Powered by Hardware CTFs & Espresso</sub>
 </div>
